@@ -1,3 +1,7 @@
 ### Test Git hooks
 
-efe
+Run:
+
+```
+git config core.hooksPath .githooks
+```
